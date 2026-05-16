@@ -9,7 +9,7 @@
 
 ---
 
-Go developer. Terminal-first.
+Backend engineer. Building CLI tools on the side.
 
 ## Open Source
 
