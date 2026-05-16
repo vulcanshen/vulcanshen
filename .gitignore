@@ -1,0 +1,4 @@
+# Whitelist approach: ignore everything, then explicitly allow README.md
+*
+!.gitignore
+!README.md
