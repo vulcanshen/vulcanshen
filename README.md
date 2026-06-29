@@ -37,7 +37,7 @@ Kubernetes TUI dashboard built with Go + Bubble Tea.
 
 **[hostfile](https://github.com/vulcanshen/hostfile)**
 
-![hostfile](https://raw.githubusercontent.com/vulcanshen/hostfile/main/docs/demo.gif)
+![hostfile](https://raw.githubusercontent.com/vulcanshen/hostfile/main/docs/demo-basics.gif)
 
 `/etc/hosts` manager for the terminal.
 
