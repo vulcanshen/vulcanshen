@@ -27,9 +27,9 @@ Claude Code session memory. Auto-summarize, context restore, weekly report. Supp
 
 ---
 
-**[km8](https://github.com/vulcanshen/km8)**
+**[kbu](https://github.com/vulcanshen/kbu)**
 
-![km8](https://raw.githubusercontent.com/vulcanshen/km8/main/docs/demo-basics.gif)
+![kbu](https://raw.githubusercontent.com/vulcanshen/kbu/main/docs/demo-basics.gif)
 
 Kubernetes TUI dashboard built with Go + Bubble Tea.
 
