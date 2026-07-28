@@ -13,6 +13,22 @@ Backend engineer. Building CLI tools on the side.
 
 ## Open Source
 
+**[filu](https://github.com/vulcanshen/filu)**
+
+![filu](https://raw.githubusercontent.com/vulcanshen/filu/main/docs/demo-basics.gif)
+
+Terminal file manager built with Go + Bubble Tea. Tab/Space/Enter/Esc navigation, no hotkeys to memorize.
+
+---
+
+**[kbu](https://github.com/vulcanshen/kbu)**
+
+![kbu](https://raw.githubusercontent.com/vulcanshen/kbu/main/docs/demo-basics.gif)
+
+Kubernetes TUI dashboard built with Go + Bubble Tea.
+
+---
+
 **[clerk](https://github.com/vulcanshen/clerk)**
 
 ```
@@ -24,14 +40,6 @@ Backend engineer. Building CLI tools on the side.
 ```
 
 Claude Code session memory. Auto-summarize, context restore, weekly report. Supports any OpenAI-compatible provider.
-
----
-
-**[kbu](https://github.com/vulcanshen/kbu)**
-
-![kbu](https://raw.githubusercontent.com/vulcanshen/kbu/main/docs/demo-basics.gif)
-
-Kubernetes TUI dashboard built with Go + Bubble Tea.
 
 ---
 
