@@ -13,6 +13,14 @@ Backend engineer. Building CLI tools on the side.
 
 ## Open Source
 
+**[sshu](https://github.com/vulcanshen/sshu)**
+
+![sshu](https://raw.githubusercontent.com/vulcanshen/sshu/main/docs/demo-grid.gif)
+
+Terminal front end for ssh and sftp. Hosts, multi-session shells and two-sided file transfer in one place — Tab/Enter/Esc/Space, no hotkeys to memorize.
+
+---
+
 **[filu](https://github.com/vulcanshen/filu)**
 
 ![filu](https://raw.githubusercontent.com/vulcanshen/filu/main/docs/demo-basics.gif)
