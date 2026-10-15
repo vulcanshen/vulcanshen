@@ -58,6 +58,14 @@ A terminal browser that reads a web page as a document.
 
 A screensaver with a PIN lock, for the terminal, wired into tmux and screen.
 
+---
+
+**[ccdrawu](https://github.com/vulcanshen/ccdrawu)**
+
+![ccdrawu](https://raw.githubusercontent.com/vulcanshen/ccdrawu/main/docs/demo.gif)
+
+A sidebar for Claude Code: usage limits, context, cost, git and session stats in a pane beside the transcript.
+
 ## More
 
 **[clerk](https://github.com/vulcanshen/clerk)**
