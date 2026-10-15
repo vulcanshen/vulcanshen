@@ -20,35 +20,11 @@ Designed by **[terminu design](https://github.com/vulcanshen/terminu)**.
 
 ---
 
-**[kbu](https://github.com/vulcanshen/kbu)**
+**[ccdrawu](https://github.com/vulcanshen/ccdrawu)**
 
-![kbu](https://raw.githubusercontent.com/vulcanshen/kbu/main/docs/demo-basics.gif)
+![ccdrawu](https://raw.githubusercontent.com/vulcanshen/ccdrawu/main/docs/demo.gif)
 
-A single-pane Kubernetes workspace: relatives navigation, YAML compare, and a persistent shell built in.
-
----
-
-**[filu](https://github.com/vulcanshen/filu)**
-
-![filu](https://raw.githubusercontent.com/vulcanshen/filu/main/docs/demo-basics.gif)
-
-A terminal file manager you don't have to learn: mark, copy and move across tabs, find by name or content, preview as you go.
-
----
-
-**[sshu](https://github.com/vulcanshen/sshu)**
-
-![sshu](https://raw.githubusercontent.com/vulcanshen/sshu/main/docs/demo-grid.gif)
-
-A terminal front end for ssh and sftp: hosts, many live sessions on one screen, and two-sided file transfer.
-
----
-
-**[webu](https://github.com/vulcanshen/webu)**
-
-![webu](https://raw.githubusercontent.com/vulcanshen/webu/main/docs/demo.gif)
-
-A terminal browser that reads a web page as a document.
+A sidebar for Claude Code: usage limits, context, cost, git and session stats in a pane beside the transcript.
 
 ---
 
@@ -60,11 +36,35 @@ A screensaver with a PIN lock, for the terminal, wired into tmux and screen.
 
 ---
 
-**[ccdrawu](https://github.com/vulcanshen/ccdrawu)**
+**[webu](https://github.com/vulcanshen/webu)**
 
-![ccdrawu](https://raw.githubusercontent.com/vulcanshen/ccdrawu/main/docs/demo.gif)
+![webu](https://raw.githubusercontent.com/vulcanshen/webu/main/docs/demo.gif)
 
-A sidebar for Claude Code: usage limits, context, cost, git and session stats in a pane beside the transcript.
+A terminal browser that reads a web page as a document.
+
+---
+
+**[sshu](https://github.com/vulcanshen/sshu)**
+
+![sshu](https://raw.githubusercontent.com/vulcanshen/sshu/main/docs/demo-grid.gif)
+
+A terminal front end for ssh and sftp: hosts, many live sessions on one screen, and two-sided file transfer.
+
+---
+
+**[filu](https://github.com/vulcanshen/filu)**
+
+![filu](https://raw.githubusercontent.com/vulcanshen/filu/main/docs/demo-basics.gif)
+
+A terminal file manager you don't have to learn: mark, copy and move across tabs, find by name or content, preview as you go.
+
+---
+
+**[kbu](https://github.com/vulcanshen/kbu)**
+
+![kbu](https://raw.githubusercontent.com/vulcanshen/kbu/main/docs/demo-basics.gif)
+
+A single-pane Kubernetes workspace: relatives navigation, YAML compare, and a persistent shell built in.
 
 ## More
 
