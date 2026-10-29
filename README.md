@@ -11,12 +11,23 @@
 
 Backend engineer. Building CLI tools on the side.
 
+Apps, a browser extension and terminal tools, all in one place: **[vulcanshen.github.io](https://vulcanshen.github.io/)**  
+挑過的作品都放在這裡。
+
 ## terminu family
 
 Terminal UIs you can use without reading the docs. Every one of them runs on the same six keys — `Tab` `Enter` `Esc` `Space` `?` `q` — and when in doubt, `Space` shows what you can do here.  
 不看文件就能用的 terminal UI：同一組按鍵，走遍每一個 app。
 
 Designed by **[terminu design](https://github.com/vulcanshen/terminu)**.
+
+---
+
+**[hostu](https://github.com/vulcanshen/hostu)**
+
+![hostu](https://raw.githubusercontent.com/vulcanshen/hostu/main/docs/demo.gif)
+
+Switch the hosts file between profiles, in the terminal: the office, home, a client's site, one key each.
 
 ---
 
@@ -66,6 +77,14 @@ A terminal file manager you don't have to learn: mark, copy and move across tabs
 
 A single-pane Kubernetes workspace: relatives navigation, YAML compare, and a persistent shell built in.
 
+## Apple apps
+
+**[HelpKnock](https://vulcanshen.github.io/helpknock/)** · [App Store](https://apps.apple.com/app/helpknock/id6822153098)
+
+<img src="https://vulcanshen.github.io/helpknock/icon.png" width="64" alt="HelpKnock">
+
+Be found without a network: when a disaster takes the network down, your phone becomes a Bluetooth beacon for rescuers nearby. iPhone and iPad.
+
 ## More
 
 **[clerk](https://github.com/vulcanshen/clerk)**
@@ -79,14 +98,6 @@ A single-pane Kubernetes workspace: relatives navigation, YAML compare, and a pe
 ```
 
 Claude Code session memory. Auto-summarize, context restore, weekly report. Supports any OpenAI-compatible provider.
-
----
-
-**[hostfile](https://github.com/vulcanshen/hostfile)**
-
-![hostfile](https://raw.githubusercontent.com/vulcanshen/hostfile/main/docs/demo-basics.gif)
-
-`/etc/hosts` manager for the terminal.
 
 ---
 
