@@ -79,6 +79,14 @@ A single-pane Kubernetes workspace: relatives navigation, YAML compare, and a pe
 
 ## Apple apps
 
+**[Alphade](https://vulcanshen.github.io/alphade/)** · [Download](https://github.com/vulcanshen/alphade/releases/latest)
+
+<img src="https://vulcanshen.github.io/alphade/icon.png" width="64" alt="Alphade">
+
+Remove semi-transparent watermarks from your own videos and bring back the picture underneath, instead of blurring it away. Free, for Mac.
+
+---
+
 **[HelpKnock](https://vulcanshen.github.io/helpknock/)** · [App Store](https://apps.apple.com/app/helpknock/id6822153098)
 
 <img src="https://vulcanshen.github.io/helpknock/icon.png" width="64" alt="HelpKnock">
