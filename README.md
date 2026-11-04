@@ -23,6 +23,14 @@ Designed by **[terminu design](https://github.com/vulcanshen/terminu)**.
 
 ---
 
+**[catu](https://github.com/vulcanshen/catu)**
+
+![catu](https://raw.githubusercontent.com/vulcanshen/catu/main/docs/demo.gif)
+
+A file viewer for the terminal: Markdown drawn as a document, mermaid as diagrams, any other file in colour.
+
+---
+
 **[hostu](https://github.com/vulcanshen/hostu)**
 
 ![hostu](https://raw.githubusercontent.com/vulcanshen/hostu/main/docs/demo.gif)
