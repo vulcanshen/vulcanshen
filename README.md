@@ -43,7 +43,7 @@ Switch the hosts file between profiles, in the terminal: the office, home, a cli
 
 ![ccdrawu](https://raw.githubusercontent.com/vulcanshen/ccdrawu/main/docs/demo.gif)
 
-A sidebar for Claude Code: usage limits, context, cost, git and session stats in a pane beside the transcript.
+A sidebar and status line for Claude Code: usage limits, context, cost, git and session stats beside the transcript or under the prompt.
 
 ---
 
@@ -121,7 +121,7 @@ Claude Code session memory. Auto-summarize, context restore, weekly report. Supp
 
 ![yi-translate](https://raw.githubusercontent.com/vulcanshen/yi-translate/main/docs/images/social-preview.png)
 
-Bilingual side-by-side translation browser extension. No API key, no backend.
+An open-source browser extension for side-by-side bilingual translation of web pages and PDFs. No AI, no API key, no account, no ads.
 
 ---
 
