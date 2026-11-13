@@ -109,6 +109,14 @@ Remove semi-transparent watermarks from your own videos and bring back the pictu
 
 Be found without a network: when a disaster takes the network down, your phone becomes a Bluetooth beacon for rescuers nearby. iPhone and iPad.
 
+---
+
+**[Ciscrux](https://vulcanshen.github.io/ciscrux/)** · [Download](https://github.com/vulcanshen/ciscrux/releases/latest)
+
+<img src="https://vulcanshen.github.io/ciscrux/icon.png" width="64" alt="Ciscrux">
+
+A screen saver that tells the time in medieval Cistercian numerals. Free, for Mac.
+
 ## More
 
 **[clerk](https://github.com/vulcanshen/clerk)**
