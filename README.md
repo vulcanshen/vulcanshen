@@ -121,13 +121,7 @@ A screen saver that tells the time in medieval Cistercian numerals. Free, for Ma
 
 **[clerk](https://github.com/vulcanshen/clerk)**
 
-```
- ______     __         ______     ______     __  __    
-/\  ___\   /\ \       /\  ___\   /\  == \   /\ \/ /    
-\ \ \____  \ \ \____  \ \  __\   \ \  __<   \ \  _"-.  
- \ \_____\  \ \_____\  \ \_____\  \ \_\ \_\  \ \_\ \_\ 
-  \/_____/   \/_____/   \/_____/   \/_/ /_/   \/_/\/_/  
-```
+![clerk](https://raw.githubusercontent.com/vulcanshen/clerk/main/docs/social-preview.png)
 
 Claude Code session memory. Auto-summarize, context restore, weekly report. Supports any OpenAI-compatible provider.
 
