@@ -27,7 +27,7 @@ Designed by **[terminu design](https://github.com/vulcanshen/terminu)**.
 
 ![tetru](https://raw.githubusercontent.com/vulcanshen/tetru/main/docs/demo.gif)
 
-A falling-block game for the terminal: move and turn the pieces as they fall, fill a row to clear it, and set the keys to your own hands.
+A falling-block game for the terminal: move and turn the pieces as they fall, fill a row to clear it, and set the keys to suit your hands.
 
 ---
 
